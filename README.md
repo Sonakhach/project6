@@ -25,3 +25,8 @@
 ✔ Identifies fake accounts, scams, and fraud.
 
 ✔ Supports ethical hacking, journalism, and law enforcement.
+
+![ing](https://github.com/Sonakhach/project6/blob/main/image.png)
+![ing](https://github.com/Sonakhach/project6/blob/main/1xuvCveFEJVZT7GMjAk2qFQ.png)
+![ing](https://github.com/Sonakhach/project6/blob/main/F6FkAd-XcAAbSwy.png)
+![ing](https://github.com/Sonakhach/project6/blob/main/GZRZ4vzWEAAveCz.png)
