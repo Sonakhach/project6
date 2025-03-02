@@ -60,6 +60,10 @@ A railway bridge across the Douro River in Portugal. It connects the cities of P
 
 ![ing](https://github.com/Sonakhach/project6/blob/main/imostik.png)
 
+when I used exiftool ,I dont got metadata, this mean picture was screenshot
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot_2025-03-02_02_46_47.png)
+
 6. **What camera was used to take this picture**
 
 
@@ -75,7 +79,19 @@ A railway bridge across the Douro River in Portugal. It connects the cities of P
    wget https://raw.githubusercontent.com/ianare/exif-samples/refs/heads/master/jpg/tests/33-type_error.jpg
    exiftool 33-type_error.jpg
   
-
+  
   ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-02%2011-19-38.png)
+   ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot_2025-03-02_02_11_46.png)
+   ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot_2025-03-02_02_15_53.png)
+   ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot_2025-03-02_02_16_12.png)
+   ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot_2025-03-02_02_17_01.png)
+  
+  ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot_2025-03-02_02_14_02.png)
 
   ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-02%2012-41-49.png)
+
+7. **photo is real or AI-generated**
+   
+   Image metadata alone cannot confirm whether a person in a photo is real or AI-generated. However, you can use a combination of forensic analysis, reverse searches, and AI detection tools to investigate.
+   
+   ![ing](https://github.com/Sonakhach/project6/blob/main/men.png)
