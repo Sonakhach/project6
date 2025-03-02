@@ -49,3 +49,15 @@ The museum  has a bronze sculpture of Roosevelt on display in its Theodore Roose
    In the background of the Louvre museum in France
    
 ![ing](https://github.com/Sonakhach/project6/blob/main/GZRZ4vzWEAAveCz.png)
+
+5. **Where is bridge?**
+
+   Maria Pia Bridge
+
+A railway bridge across the Douro River in Portugal. It connects the cities of Porto and Vila Nova de Gaia. It was built according to the design of Gustave Eiffel in 1877. It was named after the wife of King Luis I - Maria Pia of Savoy.
+
+**I used yandex reverse image to gather information**
+
+![ing](https://github.com/Sonakhach/project6/blob/main/imostik.png)
+
+6. ![ing](https://raw.githubusercontent.com/ianare/exif-samples/refs/heads/master/jpg/tests/33-type_error.jpg)
