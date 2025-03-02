@@ -75,6 +75,7 @@ A railway bridge across the Douro River in Portugal. It connects the cities of P
    wget https://raw.githubusercontent.com/ianare/exif-samples/refs/heads/master/jpg/tests/33-type_error.jpg
    exiftool 33-type_error.jpg
   ```
+
   ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-02%2011-19-38.png)
 
-  ![ing](https://raw.githubusercontent.com/ianare/exif-samples/refs/heads/master/jpg/tests/33-type_error.jpg)
+  ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-02%2012-41-49.png)
