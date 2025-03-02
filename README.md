@@ -60,4 +60,21 @@ A railway bridge across the Douro River in Portugal. It connects the cities of P
 
 ![ing](https://github.com/Sonakhach/project6/blob/main/imostik.png)
 
-6. ![ing](https://raw.githubusercontent.com/ianare/exif-samples/refs/heads/master/jpg/tests/33-type_error.jpg)
+6. **What camera was used to take this picture**
+
+
+    **Checking Camera Info from a Picture (EXIF Data Analysis)**
+
+   ```
+   sudo apt install exiftool
+   ```
+   
+   Download and analyze the image . Look for fields like **Make, Model**, and Lens Info to determine the camera used.
+   
+   ```
+   wget https://raw.githubusercontent.com/ianare/exif-samples/refs/heads/master/jpg/tests/33-type_error.jpg
+   exiftool 33-type_error.jpg
+  ```
+  ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-02%2011-19-38.png)
+
+  ![ing](https://raw.githubusercontent.com/ianare/exif-samples/refs/heads/master/jpg/tests/33-type_error.jpg)
