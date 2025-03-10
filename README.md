@@ -97,13 +97,15 @@ when I used exiftool ,I dont got metadata, this mean picture was screenshot
    
    Image metadata alone cannot confirm whether a person in a photo is real or AI-generated. However, you can use a combination of forensic analysis, reverse searches, and AI detection tools to investigate.
    
-### Osint - https://tryhackme.com/room/threatinteltools
+
    
 ![ing](https://github.com/Sonakhach/project6/blob/main/men.png)
 
-### Google Dorking - https://tryhackme.com/room/googledorking
+### Osint - https://tryhackme.com/room/threatinteltools
 
 ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-06%2021-15-32.png)
+
+### Google Dorking - https://tryhackme.com/room/googledorking
 
 ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2000-42-10.png)
 
