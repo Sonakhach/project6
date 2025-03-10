@@ -50,7 +50,7 @@ The museum  has a bronze sculpture of Roosevelt on display in its Theodore Roose
 4. **used yandex reverse image**
    
    In the background of the Louvre museum in France
-   
+ The picture was done by camera, not smartphone.So he can be a traveler, blogger or someone like that.  
 ![ing](https://github.com/Sonakhach/project6/blob/main/GZRZ4vzWEAAveCz.png)
 
 5. **Where is bridge?**
