@@ -137,6 +137,6 @@ We have date and time, and in browser make search "historical temperature in san
 
 c) What were the exact coordinates of where the bears were lying down?
 
-Go googlmap and search with  addrecc
+Go googlmap and search with  address
 
 ![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2014-03-39.png)
