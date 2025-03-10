@@ -119,3 +119,24 @@ when I used exiftool ,I dont got metadata, this mean picture was screenshot
 
 ### Osint exercise - https://gralhix.com/list-of-osint-exercises/osint-exercise-005/
 
+Task briefing:
+
+The image below is a screenshot from a zoo live cam. It was taken on January 15, 2023 at around 2pm local time.
+Please answer the questions below:
+
+a) In which zoo are these polar bears located?
+
+at first search "polar bear live cam" with googl after that go several similar url-> https://www.facebook.com/FirstAlertSanDiego/videos/polar-bear-live-cam-from-san-diego-zoo/1347230615786668. it place is same **San Diego Zoo** 
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2013-18-24.png)
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2013-24-09.png)
+
+b) What was the temperature at the time of the screenshot?
+We have date and time, and in browser make search "historical temperature in san diego" , go https://www.wunderground.com/history/daily/us/ca/san-diego/date/2021-2-23 and get temperature ->63 F
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2013-54-54.png)
+
+c) What were the exact coordinates of where the bears were lying down?
+
+Go googlmap and search with  addrecc
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2014-03-39.png)
