@@ -29,6 +29,7 @@
 1. The government led by Turkish President Recep Tayyip Erdogan was criticized earlier this month for the allocation to Somalia.
    
    Friday November 13, 2020 - 17:21:52  -> https://mogtimes.com/articles/38592/Madaxweyne-ERDOGAN-oo-lagu-dhaliilay-garab-istaag-uu-u-sameeyay-Soomaaliya
+   Picture was taken near the presidential palace․
    
    **I used googl to gather information**
    
@@ -38,11 +39,13 @@
    
 ![ing](https://github.com/Sonakhach/project6/blob/main/1xuvCveFEJVZT7GMjAk2qFQ.png)
 
-3. **I used  https://pimeyes.com/ for information about man -> https://pimeyes.com/en/results/BGG_2503013zsz8ps3ueq1u9d941b392a?query=cf4300c00001ffff7d7c7cdafe640000&safesearch=true  and googl for status of Theodore Roosevelt in the American Museum of Natural History in New York (photo: amnh.org)**
+3. **I used  https://pimeyes.com/ for information about man -> https://pimeyes.com/en/results/BGG_2503013zsz8ps3ueq1u9d941b392a?query=cf4300c00001ffff7d7c7cdafe640000&safesearch=true  and googl for status of Theodore Roosevelt in the American Museum of Natural History in New York (photo: amnh.org) and youtube bloger ho has youtube channel /NetworkChunk/**    
    
 The museum  has a bronze sculpture of Roosevelt on display in its Theodore Roosevelt Memorial Hall. This bronze sculpture depicts Roosevelt as a real person sitting on a bench with room for visitors to sit beside him.-> https://www.gothamgazette.com/authors/130-opinion/11084-other-theodore-roosevelt-statue-american-museum-natural-history
-   
+
 ![ing](https://github.com/Sonakhach/project6/blob/main/F6FkAd-XcAAbSwy.png)
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2011-36-14.png)
 
 4. **used yandex reverse image**
    
@@ -94,4 +97,23 @@ when I used exiftool ,I dont got metadata, this mean picture was screenshot
    
    Image metadata alone cannot confirm whether a person in a photo is real or AI-generated. However, you can use a combination of forensic analysis, reverse searches, and AI detection tools to investigate.
    
-   ![ing](https://github.com/Sonakhach/project6/blob/main/men.png)
+### Osint - https://tryhackme.com/room/threatinteltools
+   
+![ing](https://github.com/Sonakhach/project6/blob/main/men.png)
+
+### Google Dorking - https://tryhackme.com/room/googledorking
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-06%2021-15-32.png)
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2000-42-10.png)
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2000-40-35.png)
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2000-40-49.png)
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2000-41-03.png)
+
+![ing](https://github.com/Sonakhach/project6/blob/main/Screenshot%20from%202025-03-10%2000-41-42.png)
+
+### Osint exercise - https://gralhix.com/list-of-osint-exercises/osint-exercise-005/
+
